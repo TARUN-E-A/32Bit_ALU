@@ -1,4 +1,4 @@
-# 32Bit_ALU Simulation
+# 3. 32Bit_ALU Simulation
 
 # Aim: 
 
@@ -231,6 +231,9 @@ Steps for simulation – Run the simulation command with simulator options
 
 
 
+### Result
+
+The functionality of a 32-bit ALU was successfully verified using a test bench and simulated with the nclaunch tool.
 
 
 
